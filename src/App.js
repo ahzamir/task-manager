@@ -1,6 +1,6 @@
 const App = () => {
   return (
-    <div className="App">
+    <div className="App h-screen text-white bg-black">
       Hello World
     </div>
   );
